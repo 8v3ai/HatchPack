@@ -1,0 +1,7 @@
+;%VERSION=3.0
+;%UNITS=MM
+*Model-Malla 2, DIAMONDS  (c)1988 William Karkow
+;%TYPE=MODEL
+67.380135052, 0,0, 0,.125
+112.619864984, 0,0, 0,.125
+

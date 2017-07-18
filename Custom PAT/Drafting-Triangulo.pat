@@ -1,0 +1,7 @@
+;%VERSION=3.0
+;%UNITS=MM
+*Drafting-Triangulo, Spiny stars-square  (c) 1988  William Karkow
+;%TYPE=DRAFTING
+60, 0,0, .1875,.324759526, .1875,-.1875
+120, 0,0, .1875,.324759526, .1875,-.1875
+0, -.09375,.162379763, .1875,.324759526, .1875,-.1875
